@@ -1,0 +1,19 @@
+Somos una empresa tecnológica líder en el mercado, especializada en el desarrollo de soluciones innovadoras y vanguardistas. Nuestro enfoque se centra en crear productos y servicios que mejoren la vida de las personas, optimicen los procesos empresariales y fomenten la transformación digital.
+
+Contamos con un equipo altamente calificado de ingenieros, diseñadores y profesionales en tecnología que trabajan de manera colaborativa para ofrecer soluciones personalizadas y adaptadas a las necesidades específicas de nuestros clientes. Nuestra pasión por la tecnología nos impulsa a buscar constantemente nuevas oportunidades y desafíos, manteniéndonos a la vanguardia de las últimas tendencias y avances en el sector.
+
+Nuestra cartera de productos incluye aplicaciones móviles, software de gestión empresarial, sistemas de seguridad cibernética y soluciones de inteligencia artificial. Además, ofrecemos servicios de consultoría tecnológica, implementación de proyectos y soporte técnico, brindando un enfoque integral y completo a nuestros clientes.
+
+Nos enorgullece ser reconocidos por nuestra calidad, confiabilidad y compromiso con la excelencia en cada uno de nuestros proyectos. Trabajamos estrechamente con nuestros clientes para entender sus objetivos y desafíos, y así poder ofrecerles soluciones a medida que impulsen su éxito y crecimiento.
+
+En resumen, somos una empresa tecnológica líder, apasionada por la innovación y comprometida con proporcionar soluciones tecnológicas de vanguardia que impulsen el progreso y la transformación en diversos sectores.
+
+
+
+Las "ISOS de Microsoft Office" se refieren a archivos de imagen de disco que contienen la instalación completa del software Microsoft Office. Una imagen de disco ISO (International Organization for Standardization) es un archivo que representa el contenido completo de un CD, DVD o disco óptico similar. Estos archivos ISO se utilizan comúnmente para distribuir software y permitir su instalación en diferentes computadoras.
+
+En el caso de Microsoft Office, las ISOS se utilizan para instalar el paquete de aplicaciones de productividad de Microsoft, que incluye programas como Word, Excel, PowerPoint, Outlook y otros. Las ISOS de Microsoft Office están disponibles para diferentes versiones y ediciones del software, como Office 365, Office 2019, Office 2016, entre otras.
+
+Al obtener una imagen de disco ISO de Microsoft Office, puedes grabarla en un CD o DVD, o montarla virtualmente como una unidad de disco en tu computadora. Luego, puedes ejecutar el programa de instalación para instalar Microsoft Office en tu sistema.
+
+Es importante destacar que, para obtener y utilizar una ISO de Microsoft Office, debes tener una licencia válida del software. Las ISOS son solo archivos de instalación y no incluyen una clave de producto. Por lo tanto, es necesario contar con una clave de producto válida para activar y utilizar Microsoft Office después de la instalación.

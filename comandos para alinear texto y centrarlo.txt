@@ -1,0 +1,23 @@
+ <!-- Alinear texto en el centro "text center" según sea necesario -->
+<div class="container">
+  <div class="centered-text">
+    <p>Párrafo 1</p>
+    <p>Párrafo 2</p>
+    <p>Párrafo 3</p>
+  </div>
+</div>
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Opcional: ajusta la altura según tus necesidades */
+}
+
+.centered-text {
+  text-align: center;
+}
+
+
+
+ <!-- Alinear texto en el centro "text center" según sea necesario -->
