@@ -194,14 +194,14 @@ button {
 }
 
 img {
-  width: 100%;
-  height: auto;
+ 
+  height: 300px !important;
+
 }
 
 .LogotipoQST {
-	width: 30%;
-	height: auto;
-	display: flex;
+	width: 60%;
+	
     
 }
 
@@ -213,19 +213,12 @@ img {
     }
     
     .image-box {
-      width: 200px; /* Ancho de cada caja */
-      height: 200px; /* Altura de cada caja */
+    
       border: 1px solid #ccc; /* Borde para las cajas */
-      margin-right: 10px; /* Espacio entre las cajas */
-      display: flex; /* Utilizamos flexbox para posicionar la imagen en el centro */
-      justify-content: center; /* Centra horizontalmente la imagen */
-      align-items: center; /* Centra verticalmente la imagen */
+      margin-right: 2px; /* Espacio entre las cajas */
     }
     
-    .image-box img {
-      max-width: 100%; /* Asegura que la imagen no exceda el tamaño de la caja */
-      max-height: 100%;
-    }
+    
 	
 	
 	
